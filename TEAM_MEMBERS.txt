@@ -1,0 +1,15 @@
+This game is a puzzle game made to uplift the tribes present around the world
+
+The game uses simple puzzle theme but has animation that are implemented by using the 2D physics engines.
+
+The game is a collaborative work by :-
+
+1) Priyansh Bachchis (20BCG10042)
+
+2) Jewel Alexander Thomas (20BCG10075)
+
+3) Chakshu Bharadwaj (20BCG10100)
+
+4) Naman Bansal (20BCG10058)
+
+5) Anmol Shirish (20BCG10052)
